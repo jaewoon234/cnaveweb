@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d2a354d.css",
+    "main.js": "/static/js/main.7a52597f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/인스타그램1.png": "/static/media/인스타그램1.7f818875c398b14c42c6.png",
+    "static/media/카카오톡.png": "/static/media/카카오톡.19e8023b94027dba6de6.png",
+    "static/media/네이버블로그.png": "/static/media/네이버블로그.1ab4a39156f832905692.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/cnave (1).svg": "/static/media/cnave (1).439d89316974a4063d79a154e35f01c5.svg",
+    "static/media/kaf.png": "/static/media/kaf.3a2cec66ec9620ccc379.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/samsung.jpeg": "/static/media/samsung.ce08344e000c3e1668c7.jpeg",
+    "static/media/idle&c.png": "/static/media/idle&c.97afe926b000414b459a.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.1d2a354d.css.map": "/static/css/main.1d2a354d.css.map",
+    "main.7a52597f.js.map": "/static/js/main.7a52597f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2a354d.css",
+    "static/js/main.7a52597f.js"
+  ]
+}
