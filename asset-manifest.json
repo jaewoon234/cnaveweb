@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd54c5bc.css",
-    "main.js": "/static/js/main.e964132b.js",
+    "main.js": "/static/js/main.8c0f798e.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/인스타그램1.png": "/static/media/인스타그램1.7f818875c398b14c42c6.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.cd54c5bc.css.map": "/static/css/main.cd54c5bc.css.map",
-    "main.e964132b.js.map": "/static/js/main.e964132b.js.map",
+    "main.8c0f798e.js.map": "/static/js/main.8c0f798e.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd54c5bc.css",
-    "static/js/main.e964132b.js"
+    "static/js/main.8c0f798e.js"
   ]
 }
