@@ -38,7 +38,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand as={Link} to="/" className="d-flex">
           <img src={logo} className="img-fluid logo" alt="brand" width={70} height={30} />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -95,10 +95,10 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/vitor"
+                to="/Visitor"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> 방명록
+                <CgFileDocument style={{ marginBottom: "2px" }} /> 문의사항
               </Nav.Link>
             </Nav.Item>
 

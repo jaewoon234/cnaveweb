@@ -5,12 +5,16 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import About from "../../components/About/About";
+import Business from "../../components/Business/Business";
+import Customer from "../../components/Customer/Customer";
+import Visitor from "../../components/Visitor/Visitor";
+import Navigation from "../../components/Navigation/Navigation";
 
 function Home() {
   return (
     <section>
       <Container fluid className="home-section" id="home">
-        <Particle />
+
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
@@ -41,7 +45,10 @@ function Home() {
         </Container>
       </Container>
       <About/>
-      <Home2 />
+      <Business/>
+      <Customer/>
+      <Visitor/>
+      <Navigation/>
     </section>
   );
 }

@@ -6,7 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import logo from "../Assets/cnave (1).svg";
+import logo from "../Assets/동그란로고-Photoroom.png";
 import logo2 from "../Assets/카카오톡.png";
 import naver from "../Assets/btnG_아이콘사각.png";
 import blog from "../Assets/네이버블로그.png";

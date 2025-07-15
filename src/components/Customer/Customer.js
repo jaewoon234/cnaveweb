@@ -11,7 +11,6 @@ import Header from "./Header";
 function Business() {
   return (
     <Container fluid className="about-section" display="flex" justifyContent="center">
-      <Particle />
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Header/>
