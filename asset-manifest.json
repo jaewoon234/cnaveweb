@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cnaveweb/static/css/main.2e129703.css",
-    "main.js": "/cnaveweb/static/js/main.9132359f.js",
+    "main.js": "/cnaveweb/static/js/main.f198058f.js",
     "static/js/415.fc063c41.chunk.js": "/cnaveweb/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/cnaveweb/static/js/787.f6e65957.chunk.js",
     "static/media/인스타그램1.png": "/cnaveweb/static/media/인스타그램1.7f818875c398b14c42c6.png",
@@ -15,12 +15,12 @@
     "static/media/idle&c.png": "/cnaveweb/static/media/idle&c.97afe926b000414b459a.png",
     "index.html": "/cnaveweb/index.html",
     "main.2e129703.css.map": "/cnaveweb/static/css/main.2e129703.css.map",
-    "main.9132359f.js.map": "/cnaveweb/static/js/main.9132359f.js.map",
+    "main.f198058f.js.map": "/cnaveweb/static/js/main.f198058f.js.map",
     "415.fc063c41.chunk.js.map": "/cnaveweb/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/cnaveweb/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e129703.css",
-    "static/js/main.9132359f.js"
+    "static/js/main.f198058f.js"
   ]
 }
